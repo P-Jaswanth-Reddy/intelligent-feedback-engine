@@ -60,8 +60,8 @@ Follow these steps to run the Intelligent Feedback Engine on your local machine.
 
 1. **Clone the repository**
    ```sh
-   git clone <your-github-repo-url>
-   cd mini_easyocr
+   git clone https://github.com/P-Jaswanth-Reddy/intelligent-feedback-engine.git
+   cd intelligent-feedback-engine
    ```
 
 2. **Create a virtual environment (Recommended)**
