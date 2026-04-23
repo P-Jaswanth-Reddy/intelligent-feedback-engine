@@ -11,5 +11,5 @@ pdfplumber
 python-docx
 easyocr
 Pillow
-opencv-python
+opencv-python-headless
 pdf2image
