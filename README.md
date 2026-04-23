@@ -1,6 +1,6 @@
 # Intelligent Feedback Engine
 
-![Intelligent Feedback Engine Header](images/teacher_mode.JPG)
+![Intelligent Feedback Engine Header]
 
 ## Overview
 
