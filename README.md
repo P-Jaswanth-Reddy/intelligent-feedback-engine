@@ -1,5 +1,8 @@
 # Intelligent Feedback Engine
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://intelligent-feedback-engine-zmxvfnu3xwqhlc3p4f9yul.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/P-Jaswanth-Reddy/intelligent-feedback-engine)
+
 ![Intelligent Feedback Engine Header](images/dashboard.JPG)
 
 ## Overview
