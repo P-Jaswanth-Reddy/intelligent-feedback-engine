@@ -1,6 +1,5 @@
 import pdfplumber
 import docx
-import pytesseract
 import cv2
 import numpy as np
 import tempfile
