@@ -1,6 +1,6 @@
 # Intelligent Feedback Engine
 
-![Intelligent Feedback Engine Header]
+![Intelligent Feedback Engine Header](images/dashboard.JPG)
 
 ## Overview
 
