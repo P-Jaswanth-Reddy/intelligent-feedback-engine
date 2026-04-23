@@ -1,0 +1,15 @@
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+nltk
+groq
+wikipedia
+pdfplumber
+python-docx
+easyocr
+Pillow
+opencv-python
+pdf2image
